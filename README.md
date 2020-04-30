@@ -21,4 +21,6 @@ mdpic-dl demo.md out.md
 ```
 说明:将demo.md中的远程图片下载到out.md.files文件夹中,并且将demo.md复制到out.md,并改变out.md中的图片链接
 
+### 依赖
 
+**需要安装curl才能使用**
